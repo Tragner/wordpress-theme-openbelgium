@@ -139,7 +139,7 @@ function echo_magazine_post($post, $is_featured) {
 
 
  // Theme options
-    $themename = "OKFN Master Theme";
+    $themename = "OpenBelgium Master Theme";
     $shortname = "okfn";
     $options = array (
 		array(    "name" => "General Styling",
