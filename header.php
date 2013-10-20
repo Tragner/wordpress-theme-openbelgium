@@ -77,7 +77,7 @@
 					padding-top:5px;
 				}
 				.header-text {
-					margin-top:15px;
+					margin-top:0px;
 				}
 				.navbar .navbar-inner .social-links,
 				.navbar .navbar-inner .header-search {
